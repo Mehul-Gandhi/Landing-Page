@@ -1,5 +1,6 @@
 # Landing-Page
 
+### A Landing Page for a Solar Panel Company, part of The Odin Project cirriculum
 ## Images Used
 https://www.ceusa.com/insights/how-long-does-it-take-to-install-solar-panels
 https://www.dw.com/en/4-ways-to-make-solar-panels-more-sustainable/a-58874925
