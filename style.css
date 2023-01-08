@@ -1,0 +1,178 @@
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    background-color: rgb(1, 1, 61);
+    color: white;
+}
+
+.header {
+    display: flex;
+    background-color: rgb(1, 1, 61);
+    flex: 1;
+}
+h1 {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    margin: 16px;
+    font-size: 34px;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    color: white;
+}
+
+ul {
+    display: flex;
+    gap: 24px;
+    list-style: none;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    padding: 8px;
+    flex: 1;
+}
+
+li {
+    font-size: 24px;
+}
+
+.contact {
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 24px;
+    gap: 24px;
+    padding: 16px;
+    flex: 1;
+}
+
+.button1 {
+    border: solid blue;
+    border-radius: 10px;
+    background-color: blue; 
+}
+
+.information1 {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+    padding: 100px;
+    background-color: rgb(1, 1, 61);
+}
+
+.item1 {
+    display: flex;
+    flex-direction: column;
+    color:aliceblue;
+    padding: 16px;
+}
+
+.header1 {
+    font-size: 48px;
+    font-weight: bold;
+    align-self: center;
+    text-align: center;
+}
+
+.description {
+    font-size: 24px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 8px;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(46, 169, 210);
+    color: white;
+    display: flex;
+    align-items: flex-start;
+    border-radius: 10px;
+    font-size: 24px;
+    flex: 1;
+    justify-content: center;
+}
+
+.header2 {
+    display: flex;
+    font-size: 36px;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+
+.panel {
+    /* border-radius: 30px; */
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 50%;
+    border: solid blue;
+}
+
+.text {
+    font-size: 18px;
+    text-align: center;
+    padding: 18px;
+}
+
+.cool-box {
+    display: flex;
+    flex-direction: row;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.quote {
+    font-size: 48px;
+    margin-left: 150px;
+    margin-right: 150px;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-bottom: 0px;
+    margin-top: 50px;
+
+}
+.person {
+    margin-right: 150px;
+    font-size: 48px;
+    text-align:right;
+}
+
+.action {
+    display: flex;
+    flex-direction: row;
+    margin: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
+    align-items: center;
+    justify-content: space-evenly;
+    border: solid rgb(46, 169, 210);
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(46, 169, 210);
+    flex: 1;
+}
+.bold, .sign, .button {
+    color: white;
+    font-size: 36px;
+}
+.bold {
+    font-weight: bold;
+}
+.button {
+    border: solid white;
+    border-radius: 20px;
+    padding: 10px;
+}
